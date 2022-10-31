@@ -5,6 +5,9 @@ export const Search = () => {
         <section className="search">
             <div className="container">
             search
+
+      
+
             </div>
         </section>
     )
